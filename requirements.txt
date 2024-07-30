@@ -1,0 +1,7 @@
+Flask
+qrcode
+python-dotenv
+requests
+pymongo
+pillow
+waitress
